@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://github.com/musharibnadeem4/environmental-monitoring-mlops.git
+    

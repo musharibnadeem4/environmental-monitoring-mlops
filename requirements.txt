@@ -1,0 +1,27 @@
+# Data Management
+dvc
+dvc-gdrive  # or dvc-github depending on remote storage
+
+# Data Handling
+pandas
+numpy
+requests
+
+# Machine Learning
+scikit-learn
+tensorflow
+mlflow
+statsmodels  # For ARIMA
+Prophet  # For time series forecasting
+
+# API and Deployment
+flask
+fastapi
+uvicorn
+
+# Monitoring
+prometheus_client
+grafana-api
+
+# Utilities
+python-dotenv
